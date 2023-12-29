@@ -1,5 +1,5 @@
 # Specify the file path in the D drive where you want to create the file
-file_path = "D:\one.txt"
+file_path = r"D:\one.txt"
 
 # Open the file in write mode ('w') to create it
 # You can also use 'a' mode to append to an existing file
